@@ -12,7 +12,5 @@ public static void main(String[] args) {
 System.out.println(double_char("The"));
 System.out.println(double_char("AAbb"));
 System.out.println(double_char("Hi-There"));
-System.out.println("23DCS027 Tirth Ganatra");
-
 }
 }
