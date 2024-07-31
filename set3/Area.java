@@ -27,6 +27,5 @@ System.out.print("Enter the Breadth:");
 a.setb();
 System.out.print("Area of rectangle:");
 a.returnArea();
-System.out.println("23DCS027 Tirth Ganatra");
 }
 }
